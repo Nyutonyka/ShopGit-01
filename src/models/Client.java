@@ -18,6 +18,7 @@ public class Client implements Payment, Discount {
     public void setName(String name) {
         this.name = name;
     }
+
     public int getQuantity() {
         return quantity;
     }
