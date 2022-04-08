@@ -1,4 +1,4 @@
-package vievs;
+package views;
 
 import models.Client;
 import utils.Validator;

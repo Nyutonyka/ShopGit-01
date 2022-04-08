@@ -2,7 +2,7 @@ package controllers;
 
 import models.Client;
 import utils.Rounder;
-import vievs.ClientView;
+import views.ClientView;
 
 public class ClientController {
 
