@@ -10,7 +10,6 @@ public class Client implements Payment, Discount {
     private double price;
     private final static int DISCOUNT_RATE = 15;
 
-
     public String getName() {
         return name;
     }
