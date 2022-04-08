@@ -1,4 +1,4 @@
-package bace;
+package base;
 
 public interface Discount {
 
